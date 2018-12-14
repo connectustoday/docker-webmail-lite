@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER AfterLogic Support <support@afterlogic.com>
+MAINTAINER Seshan Ravikumar <admin@connectus.today>
 
 # installing packages and dependencies
 ENV DEBIAN_FRONTEND noninteractive
